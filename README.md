@@ -34,7 +34,7 @@ currently_learning:
   ]
 
 fun_fact: "I combine psychology, design and engineering together."
-```
+
 
 ---
 
@@ -230,4 +230,3 @@ Advanced AI system focused on:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
-`
