@@ -9,44 +9,225 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
-<h3 align="center">A passionate fullstack developer and Python developer from India</h3>
+md <div align="center">  # 🚀 Abhishek Pandey  ### Full Stack Developer • AI Builder • Graphic Designer • Startup Founder  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Futuristic+AI+Products;Full+Stack+Developer+from+India;Creative+Designer+%2B+Engineer;Founder+of+Pawvetra;React+%7C+Next.js+%7C+Python+%7C+AI" />  <br/>  <img src="https://komarev.com/ghpvc/?username=CodewithAbhishekPandey&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />  <img src="https://img.shields.io/github/followers/CodewithAbhishekPandey?label=Followers&style=for-the-badge&color=00C2FF" />  <img src="https://img.shields.io/github/stars/CodewithAbhishekPandey?label=Stars&style=for-the-badge&color=FFD700" />  </div>  ---  # 🧠 About Me  yaml
+name: Abhishek Pandey
+located_in: India 🇮🇳
+current_focus:
+  [
+    "AI Development",
+    "Full Stack Engineering",
+    "Creative Design",
+    "Startup Building"
+  ]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithabhishekpandey&label=Profile%20views&color=0e75b6&style=flat" alt="codewithabhishekpandey" /> </p>
+currently_building:
+  [
+    "Pawvetra",
+    "Velorix AI"
+  ]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithabhishekpandey" alt="codewithabhishekpandey" /></a> </p>
+currently_learning:
+  [
+    "LangChain",
+    "AI Agents",
+    "Advanced Backend Systems"
+  ]
 
-<p align="left"> <a href="https://twitter.com/@abhisheø5360343" target="blank"><img src="https://img.shields.io/twitter/follow/@abhisheø5360343?logo=twitter&style=for-the-badge" alt="@abhisheø5360343" /></a> </p>
+fun_fact: "I combine psychology, design and engineering together."
+```
 
-- 🔭 I’m currently working on Pawvetra [Pawvetra.vercel.app](Portfolio-AbhishekPandey.com)
+---
 
-- 🌱 I’m currently learning **Langchain**
+# ⚡ Mission
 
-- 👯 I’m looking to collaborate on **Velorix Ai**
+<div align="center">
 
-- 🤝 I’m looking for help with [Pawvetra](Pawvetra.vercel.app)
+### Building emotionally powerful digital products with AI.
 
-- 👨‍💻 All of my projects are available at [portfolio-AbhishekPandey.vercel.app](portfolio-AbhishekPandey.vercel.app)
+</div>
 
-- 💬 Ask me about **React, graphics and Python**
+- 🚀 Creating scalable AI products
+- 🎨 Blending design psychology with engineering
+- 🧠 Exploring intelligent automation systems
+- 🌍 Building futuristic user experiences
+- ⚡ Designing high-converting interfaces
 
-- 📫 How to reach me **Abhishekpandey.workpro@gmail.com**
+---
 
-- 📄 Know about my experiences [portfolio-AbhishekPandey.vercel.app](portfolio-AbhishekPandey.vercel.app)
+# 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@abhisheø5360343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisheø5360343" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishekpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekpandey" height="30" width="40" /></a>
-<a href="https://fb.com/abhishek pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/this_is_abhishekpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this_is_abhishekpandey" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 👨‍💻 Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithabhishekpandey&show_icons=true&locale=en&layout=compact" alt="codewithabhishekpandey" /></p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithabhishekpandey&show_icons=true&locale=en" alt="codewithabhishekpandey" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithabhishekpandey&" alt="codewithabhishekpandey" /></p>
+## ⚛ Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind" />
+
+---
+
+## 🔥 Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+
+---
+
+## 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+
+---
+
+## ☁ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git" />
+
+---
+
+## 🎨 Design & Creativity
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+
+---
+
+## 📱 Mobile & Others
+
+<img src="https://skillicons.dev/icons?i=react,swift,androidstudio,unity" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🐾 Pawvetra
+
+### Luxury AI-powered Pet Ecosystem
+
+Modern platform combining:
+- AI
+- Veterinary services
+- Pet management
+- Luxury branding
+- Emotional design
+
+### Stack Used
+
+Next.js • `MongoDB` • `Node.js` • `AI` • `UI/UX`
+
+---
+
+## ⚡ Velorix AI
+
+### AI Automation & Productivity Platform
+
+Advanced AI system focused on:
+- Productivity
+- Automation
+- Smart workflows
+- AI integration
+
+### Stack Used
+
+`Python` • `React` • `AI` • `Automation`
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodewithAbhishekPandey&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodewithAbhishekPandey&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAbhishekPandey&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodewithAbhishekPandey&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodewithAbhishekPandey&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abhishek-pandey-2b0350217">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/this_is_abhishekpandey">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:Abhishekpandey.workpro@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/CodewithAbhishekPandey">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+# 💭 Philosophy
+
+<div align="center">
+
+### “Design creates emotion.  
+### Code creates possibility.  
+### AI creates the future.”
+
+</div>
+
+---
+
+# ⚡ Current Goals
+
+- 🚀 Launch Pawvetra publicly
+- 🧠 Build advanced AI agents
+- 🌍 Create globally recognized products
+- 🎨 Master creative engineering
+- 💰 Build scalable startups
+
+---
+
+<div align="center">
+
+# 🔥 Thanks For Visiting
+
+### Turning imagination into scalable digital reality.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
+
+</div>
+`
